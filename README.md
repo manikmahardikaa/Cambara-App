@@ -1,0 +1,1 @@
+Aplikasi Cambara merupakan aplikasi pendeteksi akurasi aksara bali melalui kamera dan galeri, fitur lainnya adalah dapat menggambar aksara on screen, fitur selanjutnya adalah terdapat daftar akurasi aksara, dan dapat memfilter akurasi aksara dari terbesar dan terkecil dan sebaliknya
